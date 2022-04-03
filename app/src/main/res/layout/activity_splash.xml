@@ -27,6 +27,7 @@
             android:layout_width="50dp"
             android:layout_height="50dp"
             style="?android:attr/progressBarStyleLarge"
+            android:indeterminateTint="@color/primary"
             android:layout_gravity="center"
             android:visibility="visible"/>
 
